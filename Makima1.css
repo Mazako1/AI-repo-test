@@ -1,0 +1,18 @@
+@import url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/BasicBackground.css);
+:root {
+    --transparencycolor: 38,38,38;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.05;
+    --guildchanneltransparency: 0.05;
+    --memberlistransparency: 0;
+    --accentcolor: 20,19,19;
+    --background: url("https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/Makima.png");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
