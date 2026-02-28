@@ -1,7 +1,7 @@
-@import url(https://vsthemes.org/uploads/generator/client/ThemeDevBadge.css);
-@import url(https://vsthemes.org/uploads/generator/client/SettingsIcons.css);
-@import url(https://vsthemes.org/uploads/generator/client/BlurpleRecolor.css);
-@import url(https://vsthemes.org/uploads/generator/client/usrbg.css);
+@import url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/ThemeDevBadge.css);
+@import url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/SettingsIcons.css);
+@import url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/BlurpleRecolor.css);
+@import url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/usrbg.css);
 
 :root {
 	--dtransparencycolor:			0,0,0;
@@ -14,7 +14,7 @@
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
 	
-	--dbackground:					url(https://vsthemes.org/uploads/generator/preview.jpeg);
+	--dbackground:					url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/preview.jpeg);
 	--dbackgroundsize:				cover;
 	--dbackgroundposition:			center;
 	--dblur:						unset;
