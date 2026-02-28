@@ -2288,7 +2288,7 @@ body::before {
 .bd-social-logo {
 	opacity: 1;
 	background: rgb(var(--fontwhite3));
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/settings_icons_betterdiscord.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/settings_icons_betterdiscord.svg) center/contain no-repeat;
 	transition: background .15s ease;
 }
 .bd-social-link:hover .bd-social-logo {
@@ -2482,7 +2482,7 @@ body::before {
 }
 
 .container-3PXSwK {											/* voicesettings		voicebarcontainer					*/
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/voice_level_bar.svg);
+	-webkit-mask: url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/voice_level_bar.svg);
 }
 .notches-1sAcEM {
 	background: transparent !important;
@@ -2821,7 +2821,7 @@ body::before {
 	bottom: 0;
 	left: 0;
 	background-color: rgba(var(--vtransparencycolor), 0.5);
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/discord_window_placeholder.svg) 0 0/cover no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/discord_window_placeholder.svg) 0 0/cover no-repeat;
 }
 #app-mount .exampleModal-2oh58d,							/* communitysettings	rules		examplemodal			*/
 #app-mount .exampleModal-2X2Vf8 {							/* communitysettings	welcome		examplemodal			*/
@@ -7030,14 +7030,14 @@ html .bd-toast.toast-warn.icon::before {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Mazako1/AI-repo-test/refs/heads/main/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-modal-inner {								/* modal				container							*/
@@ -7780,7 +7780,7 @@ html .channelTabs-newTab:hover {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp::before {
-	content: "Download update theme from https://vsthemes.org" !important;
+	content: "Download update theme from ehe" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--vtransparencycolor), 0.3) !important;
@@ -7870,7 +7870,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	position: relative !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::after {
-	content: "Created by VSThemes.org" !important;
+	content: "Created by ehe" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
